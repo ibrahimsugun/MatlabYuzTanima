@@ -1,0 +1,9 @@
+Detect face ve Matlab Klasörü RAR'dan çıkartıp olduğu yerde çalıştırılabilir. 
+
+2 ayrı klasör birbirinden bağımsız 2 farklı işlevi simgelemektedir ve aynı dizinde bulunmalarına gerek yoktur.
+
+Matlab klasörü Veritabanından bir yüzü teşhis etme işlevi görmektedir, (calistir.m  nesnesi "Run" edilerek çalıştırılabilir).
+
+Detectface klasörü Veritabanı gerektirmeden herhangi bir resimde yüz olup olmadığını teşhis etmektedir.(detect_face.m  nesnesi "Run" edilerek çalıştırılabilir).
+
+
